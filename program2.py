@@ -1,4 +1,4 @@
-#  working on a text analysis tool for a language learning application in which identify all the vowels in the given sentence wap for that
+#  working on a text analysis tool for a language learning application in which identify all the vowels in the given sentence wap for tha same
 
 def count_vowels(sentence):
     vowels = 'AEIOU'
