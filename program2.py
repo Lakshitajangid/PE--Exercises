@@ -15,7 +15,7 @@ print("Welcome to the Vowel Counter!")
 # take input as a sentence from the user
 sentence = input("Please enter a sentence to count the number of vowels: ")
 
-# calling the function here
+#calling the function here
 vowel_count, vowel_percentage = count_vowels(sentence)
  
  #dispay statements
